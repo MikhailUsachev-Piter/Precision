@@ -13,7 +13,7 @@
 Было проведено дымовое тестирование и тестирование функциональности подсчета дополнительных бонусов клиенту.  
 ## Найденные ошибки
 
-[Issue](https://monosnap.com/file/7MXPCLDvalnxM2PeATvd7rGdrtFn5N)
+[Issue](https://github.com/MikhailUsachev-Piter/Precision/issues/1)
 
 ## Общие рекомендации
 
